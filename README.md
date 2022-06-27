@@ -1,2 +1,2 @@
 # weather-app
-Weather app with API call
+Responsive weather app with API call
